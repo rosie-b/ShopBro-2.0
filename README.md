@@ -1,4 +1,5 @@
 # Kokako-2018 Final Project (8 days)
+Created by Anugrah Danang Abiyoga, Rosie Burkett, Engie Matene, Minjoo Ruth Bai, Steve Torrens and Annika Philipp.
 
 # ShopBro-2.0
 Its ShopBro 2.0
